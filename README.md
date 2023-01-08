@@ -1,2 +1,4 @@
 # user-registration-crud
-User Registration CRUD
+Learning User Registration CRUD
+
+menit ke 07.10
